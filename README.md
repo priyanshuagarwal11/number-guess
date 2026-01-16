@@ -23,3 +23,49 @@ Total attempts are displayed at the end
 Python 3
 
 Built-in random module
+
+▶️ How to Run the Game
+
+Make sure Python is installed
+Check using:
+
+python --version
+
+
+Clone or download the project
+
+Open terminal / command prompt
+
+Run the game:
+
+python guess_game.py
+
+📂 Project Structure
+Number-Guessing-Game/
+│
+├── guess_game.py
+└── README.md
+
+🧠 Concepts Covered
+
+Variables
+
+Loops (while)
+
+Conditional statements (if-else)
+
+User input
+
+Random number generation
+
+🚀 Future Improvements
+
+Difficulty levels (Easy / Medium / Hard)
+
+Limited number of attempts
+
+Score system
+
+Replay option
+
+GUI version using tkinter or pygame
